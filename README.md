@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denny Yeh @denny3388
 - 📖 NYCU CS senior -> postgraduate
-- 👀 I’m interested in CV / ML
+- 👀 I’m interested in CV / ML / Unity
 - 📫 How to reach me 
   - denny3388@gmail.com
 
